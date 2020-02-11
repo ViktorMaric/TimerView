@@ -11,7 +11,7 @@ You can change the backgound, the length of the timer and if it should vibrate a
 
 Use it inside a ZStack!
 
-MenuBar example with 4 items:
+TimerView example:
 ```swift
  ZStack {
      if showingTimer {
